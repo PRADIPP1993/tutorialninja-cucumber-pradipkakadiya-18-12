@@ -1,0 +1,1 @@
+2022-12-21 13:25:58 INFO  ComponentsPage :22 - Verify the text ‘Components’[[ChromeDriver: chrome on WINDOWS (a71038385c9efd25363402df04854132)] -> xpath: //h2[contains(text(),'Components')]]
